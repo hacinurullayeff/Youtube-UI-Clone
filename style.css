@@ -159,11 +159,19 @@ button[type="submit"]{
 .up-title{
     width: 70px;
     background: #e7e7e7;
-    border: 1px solid #EAEAEA;
+    border: 1px solid #DADADA;
     border-radius: 20px;
     padding: 5px;
     margin: 0 8px;
     font-weight:bold;
     font-size: 15px;
     font-family: 'Roboto', sans-serif;
+}
+#main{
+    background: #030303;
+    color: #FFF;
+}
+#home{
+    background: #E5E5E5;
+    padding: 5px;
 }
