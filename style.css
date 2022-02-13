@@ -123,6 +123,7 @@ button[type="submit"]{
     margin: 15px 40px 8px 15px;
 }
 .btn{
+    cursor: pointer;
     width: 110px;
     border: 1px solid #0984e3;
     padding: 8px;
