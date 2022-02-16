@@ -14,7 +14,7 @@ body{
     justify-content: space-between;
     align-items: center;
 }
-.logoaz{
+.brand{
     margin-left: 15px;
 }
 .logo{
@@ -23,6 +23,12 @@ body{
     margin-left: 5px;
     cursor: pointer;
 }
+
+.location-az{
+    position: absolute;
+    top: 10px;
+}
+
 .searchbar{
     flex-basis: 50%;
 }
@@ -90,10 +96,7 @@ button[type="submit"]{
     border-bottom: 1px solid #EAEAEA;
     border-top: 1px solid #EAEAEA;
 }
-.AZ{
-    position: absolute;
-    top: 10px;
-}
+
 .toptitles{
     display: flex;
     flex-direction: column;
@@ -129,7 +132,7 @@ button[type="submit"]{
     padding: 8px;
     background: none;
     color: #0984e3;
-    margin: 10px 40px 15px 15px;
+    margin: 10px 36px 15px 15px;
 }
 .btn-inside{
     display: flex;
